@@ -37,16 +37,9 @@ website performance.
 </summary>
 
 <br />
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TerminalDZ&repo=Algorithmic-Trading)](https://github.com/ApurvShah007/Algorithmic_trading)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TerminalDZ&repo=portfolio-optimizer)](https://github.com/ApurvShah007/portfolio-optimizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TerminalDZ&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TerminalDZ&repo=ml-research)](https://github.com/stocksmith/ml-research)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TerminalDZ&repo=YouTube_Downloader)](https://github.com/TerminalDZ/YouTube_Downloader)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TerminalDZ&repo=TRPortfolio)](https://github.com/TerminalDZ/TRPortfolio)
 <br />
-
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 </details>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)

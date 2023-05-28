@@ -27,14 +27,6 @@ website performance.
 <br />
 <br />
 <br />
-<details>
-<summary>
-  Projects I am currently working on
-</summary>
 
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TerminalDZ&repo=YouTube-Downloader)](https://github.com/TerminalDZ/YouTube_Downloader)
-<br />
-</details>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)

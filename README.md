@@ -3,7 +3,6 @@
 </p>
 
 ### Hi there 👋 I am [Idriss Boukmouche](https://instagram.com/idriss_boukmouche) 
-### Hi there 👋 I am [Apurv Shah](https://apurvshah007.github.io)
 
 <div>
  <p>

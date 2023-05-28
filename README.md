@@ -37,8 +37,7 @@ website performance.
 </summary>
 
 <br />
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TerminalDZ&repo=YouTube_Downloader)](https://github.com/TerminalDZ/YouTube_Downloader)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TerminalDZ&repo=TRPortfolio)](https://github.com/TerminalDZ/TRPortfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TerminalDZ&repo=YouTube-Downloader)](https://github.com/TerminalDZ/YouTube_Downloader)
 <br />
 </details>
 

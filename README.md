@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" /><br />
+ <img width="100px" src="https://raw.githubusercontent.com/TerminalDZ/TerminalDZ/main/5ce2477642fe336289c94315c1886983.png" align="center" alt="Github Readme Stats" /><br />
 </p>
 
 ### Hi there 👋 I am [Idriss Boukmouche](https://instagram.com/idriss_boukmouche) 

@@ -13,7 +13,7 @@ wide range of technologies and tools, including
 HTML, CSS, JavaScript, PHP, Laravel, NodeJS, Botble
 CMS, MySQL, and others. Additionally, I have the
 ability to understand user needs and translate them
-into smooth and responsive user interfaces. I am
+into smooth and responsive user interfaces, I am
 committed to developing best practices in design
 and development, as well as implementing cuttingedge innovations to improve user experience and
 website performance.

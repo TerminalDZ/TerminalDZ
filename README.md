@@ -21,7 +21,7 @@ website performance.
 </h4>
 </div>
 
-<div><p>My profile overview : </p></div>
+<div><p>My profile overview :</p></div>
 
 ![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=TerminalDZ&show_icons=true)
 <br />

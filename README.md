@@ -26,7 +26,8 @@ website performance.
 ![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=TerminalDZ&show_icons=true)
 <br />
 <br />
-<br />
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TerminalDZ)
+<br />
+<br /> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalDZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

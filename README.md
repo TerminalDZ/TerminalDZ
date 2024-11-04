@@ -10,10 +10,10 @@ I'm a Full-Stack Web Developer passionate about creating efficient and user-frie
 
 I specialize in developing end-to-end web applications with expertise in:
 
-- Frontend: HTML, CSS, JavaScript
-- Backend: PHP, Laravel, NodeJS
-- CMS: Botble CMS
-- Database: MySQL
+- Frontend: HTML, CSS, JavaScript, React...
+- Backend: PHP, Laravel, NodeJS, Python...
+- CMS: Botble CMS, Wordpress
+- Database: MySQL, Sqlite, Supabase...
 - UI/UX Design Principles
 
 My approach combines technical expertise with user-centric design, focusing on creating responsive interfaces and maintaining high performance standards.

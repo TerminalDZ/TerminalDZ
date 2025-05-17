@@ -47,7 +47,6 @@ I leverage a diverse set of tools and technologies to bring ideas to life:
 *   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="20" height="20"/> Bootstrap
 *   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript (ES6+)
 *   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="20" height="20"/> jQuery
-*   Responsive Web Design
 
 **Backend:**
 *   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="20" height="20"/> PHP
@@ -76,13 +75,6 @@ I leverage a diverse set of tools and technologies to bring ideas to life:
 *   UI/UX Design Principles
 *   API Development & Integration
 
----
-
-## 🌐 Languages
-
-*   **Arabic:** Native Speaker
-*   **French:** Advanced Proficiency
-*   **English:** Intermediate Proficiency
 
 ---
 

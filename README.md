@@ -18,6 +18,9 @@
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
     </a>
     <!-- أضف رابط LinkedIn هنا إذا كان لديك -->
+    <!-- <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a> -->
   </p>
 </div>
 
@@ -35,7 +38,7 @@ Here's a glimpse of the technologies and tools I work with:
 *   Responsive Web Design
 
 **Backend:**
-*   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="20" height="20"/> PHP, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="20" height="20"/> Laravel, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="20" height="20"/> CodeIgniter
+*   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="20" height="20"/> PHP, <img src="https://raw.githubusercontent.com/laravel/art/master/logo-mark/4%20PNG/1%20PMS/laravel-mark-PMS-red-1788C.png" alt="Laravel" width="20" height="20"/> Laravel, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="20" height="20"/> CodeIgniter
 *   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20"/> Node.js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="20" height="20"/> Express.js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron.js" width="20" height="20"/> Electron.js
 *   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="20" height="20"/> Ruby (Familiarity)
 
@@ -80,4 +83,5 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   <a href="mailto:boukemoucheidriss@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://instagram.com/idriss_boukmouche" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://iba.rf.gd" target="_blank"><img src="https://img.shields.io/badge/Website-iba.rf.gd-green?style=flat-square&logo=google-chrome&logoColor=white" alt="Personal Website"></a>
+  <!-- Add other social links here -->
 </div>

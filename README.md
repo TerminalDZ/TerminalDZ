@@ -18,9 +18,6 @@
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
     </a>
     <!-- أضف رابط LinkedIn هنا إذا كان لديك -->
-    <!-- <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a> -->
   </p>
 </div>
 
@@ -33,41 +30,30 @@ I'm a passionate Full-Stack Web Developer with a knack for creating efficient, s
 Here's a glimpse of the technologies and tools I work with:
 
 **Frontend:**
-*   HTML5, CSS3, Bootstrap
-*   JavaScript (ES6+), jQuery
+*   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/> HTML5, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/> CSS3, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="20" height="20"/> Bootstrap
+*   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript (ES6+), <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="20" height="20"/> jQuery
 *   Responsive Web Design
 
 **Backend:**
-*   PHP, Laravel, CodeIgniter
-*   Node.js, Express.js, Electron.js
-*   Python, Ruby (Familiarity)
+*   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="20" height="20"/> PHP, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="20" height="20"/> Laravel, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="20" height="20"/> CodeIgniter
+*   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20"/> Node.js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="20" height="20"/> Express.js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron.js" width="20" height="20"/> Electron.js
+*   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="20" height="20"/> Ruby (Familiarity)
 
 **Databases:**
-*   SQL, MySQL, SQLite
-*   Supabase
+*   SQL
+*   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20"/> MySQL, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="20" height="20"/> SQLite
+*   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="20" height="20"/> Supabase
 
 **CMS:**
+*   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="20" height="20"/> WordPress
 *   Botble CMS
-*   WordPress
 
 **Tools & Others:**
-*   Git, GitHub, Command Line
+*   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20" height="20"/> Git, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20"/> GitHub
+*   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Command Line" width="20" height="20"/> Command line
 *   Problem Solving
 *   UI/UX Design Principles
 *   API Development & Integration
-
-## ✨ Experience Highlights
-
-*   **Full-Stack Web Developer @ MoonBox (April 2024 – Present):** Developing and maintaining responsive websites using HTML, CSS, JavaScript, PHP, and Laravel. Collaborating with designers and enhancing website performance.
-*   **Full-Stack Web Developer @ Gaming Setif Informatique (February 2023 – March 2024):** Led development of web projects using NodeJS, Express, and PHP, implementing dynamic features.
-*   **Web Development Trainer @ Shehab Center for Research (June 2022 – April 2024):** Conducted training sessions on website programming and created comprehensive materials.
-*   **Freelance Full-Stack Web Developer (January 2019 – Present):** Delivered custom web solutions for clients on platforms like Codester, Khamsat, and Mostaql.
-*   **Full-Stack Web Developer @ Algerian Muslim Scouts (January 2021 – Present):** [يمكنك إضافة تفصيل بسيط هنا إذا أردت]
-
-## 🎓 Certifications
-
-*   **Full Stack Web Developer** - Udacity
-*   Additional certifications and learning in Python, Networking, Cybersecurity, Linux, Cloud Technologies, and Computer Engineering from platforms like edraak, Oracle University, edX, Codedex, and Udemy.
 
 ## 🌐 Languages
 
@@ -82,7 +68,7 @@ Here's a glimpse of the technologies and tools I work with:
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalDZ&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Idriss's Top Languages"/>
   <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TerminalDZ.TerminalDZ" alt="Profile Views"/>
+  <img src="https://camo.githubusercontent.com/0297ce46d41551d7400e1cf8cf75f2531bac948f87c25f3149349e813c23a6fb/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d5465726d696e616c445a" alt="Profile Views"/>
 </div>
 
 ## 📫 Let's Connect!
@@ -94,5 +80,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   <a href="mailto:boukemoucheidriss@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://instagram.com/idriss_boukmouche" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://iba.rf.gd" target="_blank"><img src="https://img.shields.io/badge/Website-iba.rf.gd-green?style=flat-square&logo=google-chrome&logoColor=white" alt="Personal Website"></a>
-  <!-- Add other social links here -->
 </div>

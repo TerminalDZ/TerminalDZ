@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/TerminalDZ">
-    <img width="100%" src="https://raw.githubusercontent.com/TerminalDZ/TerminalDZ/main/banner.png" alt="Idriss Boukmouche - TerminalDZ Logo"/>
+    <img width="100%" src="./banner.png" alt="Idriss Boukmouche - TerminalDZ Logo"/>
   </a>
 
 

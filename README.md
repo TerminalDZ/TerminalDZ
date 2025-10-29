@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="https://github.com/TerminalDZ">
-    <img width="100%" src="https://i.ibb.co/p6dMrLQn/banner.png" alt="Idriss Boukmouche - TerminalDZ"/>
-  </a>
 
   # Hi there, I'm Idriss Boukmouche 👋
 

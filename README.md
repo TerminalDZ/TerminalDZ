@@ -1,235 +1,396 @@
 <div align="center">
 
-  # Hi there, I'm Idriss Boukmouche 👋
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=180&section=header&text=Idriss%20Boukmouche&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descSize=16&descAlignY=51"/>
 
-  <p>
-    <strong>Full-Stack Developer & Software Engineer</strong> from Algeria 🇩🇿
-  </p>
-  <p>
-    Building scalable SaaS platforms, intelligent automation systems, and cross-platform applications.<br/>
-    Transforming complex business challenges into elegant technical solutions.
-  </p>
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Crafting+Scalable+SaaS+Solutions+%F0%9F%9A%80;Building+Intelligent+Automation+%F0%9F%A4%96;Architecting+Real-time+Systems+%E2%9A%A1;From+Algeria+%F0%9F%87%A9%F0%9F%87%BF+to+the+World+%F0%9F%8C%8D" alt="Typing SVG" />
+</p>
 
-  <div>
-    <a href="mailto:boukemoucheidriss@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://instagram.com/idriss_boukmouche" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="https://iba.rf.gd" target="_blank">
-      <img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-    </a>
-    <a href="https://www.linkedin.com/in/idriss-boukmouche/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </div>
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-SaaS%20Architecture-00D4AA?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Specialty-Real--time%20Systems-64FFDA?style=for-the-badge&logo=socket.io&logoColor=0a192f" />
+  <img src="https://img.shields.io/badge/Location-Algeria%20%F0%9F%87%A9%F0%9F%87%BF-00d26a?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-success?style=for-the-badge&logo=statuspage&logoColor=white" />
+</p>
+
+<!-- Social Links with Icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/idriss-boukmouche/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:boukmoucheidriss@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://terminaldz.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+
+
 </div>
 
 ---
 
-## 🚀 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-Versatile Full-Stack Developer with expertise in building production-ready applications across multiple platforms and technologies. I specialize in creating scalable SaaS solutions, intelligent automation systems, and cross-platform desktop applications.
-
-**What Drives Me:**
-- 🎯 Architecting scalable multi-tenant SaaS platforms
-- 🤖 Building intelligent automation and monitoring systems
-- 💻 Creating cross-platform desktop applications with Electron
-- 🔌 Developing robust API integrations and microservices
-- 🌍 Contributing to the Algerian tech ecosystem
-
----
-
-## 🛠️ Technology Stack
-
-### **Frontend Development**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-
-### **Backend Development**
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-</p>
-
-### **Laravel Ecosystem**
-<p>
-  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=black" alt="Filament"/>
-  <img src="https://img.shields.io/badge/Laravel_Nova-41B883?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Nova"/>
-  <img src="https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Reverb"/>
-  <img src="https://img.shields.io/badge/Botble_CMS-3490DC?style=for-the-badge&logo=laravel&logoColor=white" alt="Botble CMS"/>
-</p>
-
-### **Real-time & WebSocket**
-<p>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket"/>
-</p>
-
-### **Desktop & Cross-Platform**
-<p>
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron.js"/>
-</p>
-
-### **Databases & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
-
-### **DevOps & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel"/>
-  <img src="https://img.shields.io/badge/WHM-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="WHM"/>
-  <img src="https://img.shields.io/badge/aaPanel-1677FF?style=for-the-badge&logo=linux&logoColor=white" alt="aaPanel"/>
-</p>
-
-### **API & Documentation**
-<p>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
-</p>
-
-### **Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-</p>
-
----
-
-## 💡 Areas of Expertise
+## 🎯 About Me
 
 ```typescript
-const expertise = {
-  architecture: [
-    "Multi-tenant SaaS Platforms",
-    "Microservices Architecture",
-    "RESTful API Design",
-    "MVC Pattern Implementation",
-    "Event-Driven Architecture"
-  ],
+class IdrissBoukmouche implements FullStackEngineer {
+  name = "Idriss Boukmouche";
+  location = "Algiers 🇩🇿";
+  role = "Full-Stack Developer & Software Engineer";
   
-  specializations: [
-    "Real-time Communication (WebSocket, Socket.IO, Laravel Reverb)",
-    "Browser Automation & Web Scraping",
-    "Desktop Application Development",
-    "Package Development (Composer/NPM)",
-    "Hardware Integration (USB Devices)",
-    "Custom CLI Tools & Commands",
-    "Admin Panel Development (Filament, Nova)",
-    "API Documentation (Swagger/OpenAPI)",
-    "Search Engine Integration (Elasticsearch)"
-  ],
+  getCurrentFocus(): string[] {
+    return [
+      "🏗️ Architecting enterprise-grade multi-tenant SaaS platforms",
+      "⚡ Building real-time communication systems with WebSockets",
+      "🤖 Developing intelligent automation & monitoring solutions",
+      "🔧 Creating custom frameworks, CLI tools & packages",
+      "🌍 Empowering the Algerian tech ecosystem"
+    ];
+  }
   
-  integration: [
-    "Third-party API Integration",
-    "Payment Gateway Integration",
-    "Shipping & Logistics APIs",
-    "Telegram Bot Development",
-    "Email Automation Systems",
-    "Real-time Notification Systems",
-    "Caching Strategies (Redis)",
-    "Full-Text Search (Elasticsearch)"
-  ],
+  getExpertise(): Map<string, string[]> {
+    return new Map([
+      ["Backend", ["Laravel", "Node.js", "PHP", "Express.js"]],
+      ["Frontend", ["Vue.js", "React", "Alpine.js", "Livewire", "Inertia.js"]],
+      ["Real-time", ["Socket.IO", "Laravel Reverb", "WebSockets", "Pusher"]],
+      ["Desktop", ["Electron", "Cross-platform Apps"]],
+      ["Database", ["MySQL", "PostgreSQL", "MongoDB", "Redis", "Elasticsearch"]],
+      ["DevOps", ["Docker", "Linux", "CI/CD", "Cloud Deployment"]],
+      ["Architecture", ["Multi-tenant SaaS", "Microservices", "RESTful APIs"]]
+    ]);
+  }
   
-  domains: [
-    "E-commerce Platforms",
-    "SaaS Solutions",
-    "Automation Systems",
-    "Monitoring & Alert Systems",
-    "Content Management Systems",
-    "Real-time Applications"
-  ]
-};
+  getPassion(): string {
+    return "Transforming complex business challenges into elegant, scalable solutions 💡";
+  }
+}
 ```
 
+<div align="center">
+
+### 🎨 **What Sets Me Apart**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/color/96/000000/rocket.png"/>
+<h4>🚀 Innovation Driven</h4>
+<p>Constantly exploring cutting-edge technologies and architectural patterns to deliver state-of-the-art solutions</p>
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/color/96/000000/puzzle-matching.png"/>
+<h4>🧩 Problem Solver</h4>
+<p>Expert at breaking down complex requirements into elegant, maintainable, and scalable technical solutions</p>
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/color/96/000000/around-the-globe.png"/>
+<h4>🌍 Local Impact</h4>
+<p>Deep understanding of Algerian market needs, creating solutions tailored for local businesses</p>
+</td>
+</tr>
+</table>
+
 ---
 
-## 🎯 Current Focus
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-- 🚀 Building enterprise-grade multi-tenant SaaS applications
-- ⚡ Developing real-time applications with WebSocket and Laravel Reverb
-- 🔧 Creating custom frameworks and CLI tooling
-- 🤖 Building intelligent automation and monitoring solutions
-- 📦 Contributing to open-source packages and libraries
-- 🔍 Implementing advanced search solutions with Elasticsearch
-- 🌍 Solving real-world problems for the Algerian market
-
----
-
-## 📊 GitHub Statistics
+## 🛠️ Technology Arsenal
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TerminalDZ&show_icons=true&theme=radical&hide_border=true&count_private=true&icon_color=79ff97&title_color=79ff97&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalDZ&layout=compact&theme=radical&hide_border=true&langs_count=8&text_color=c9d1d9&bg_color=0d1117&title_color=79ff97" alt="Top Languages"/>
-  <br/>
-  <img src="https://camo.githubusercontent.com/0297ce46d41551d7400e1cf8cf75f2531bac948f87c25f3149349e813c23a6fb/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d5465726d696e616c445a" alt="Visitor Count"/>
+
+### **Frontend Mastery**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=laravel-livewire&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **Backend Powerhouse**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=black)
+![Nova](https://img.shields.io/badge/Laravel_Nova-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### **Real-time & Communication**
+
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Laravel Reverb](https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### **Desktop & Cross-Platform**
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### **Database & Caching**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### **DevOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### **API & Integration**
+
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
 ---
 
-## 🌟 What Sets Me Apart
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-- **Full-Stack Mastery**: Seamless integration from frontend to backend to infrastructure
-- **Problem-Solving Mindset**: Turning complex business requirements into elegant technical solutions
-- **Multi-Platform Expertise**: Web, Desktop, and API development experience
-- **Real-time Systems**: Expert in WebSocket, Socket.IO, and Laravel Reverb implementations
-- **Database Versatility**: Experience with SQL, NoSQL, and in-memory databases (MongoDB, Redis)
-- **Search & Performance**: Advanced search implementation with Elasticsearch
-- **Automation Specialist**: Building intelligent systems that work autonomously
-- **Open Source Contributor**: Sharing knowledge through packages and libraries
-- **Local Market Understanding**: Deep knowledge of Algerian business ecosystem and requirements
+## 💼 Core Expertise
+
+<details open>
+<summary><b>🏗️ SaaS Architecture & Multi-tenancy</b></summary>
+<br>
+
+- ✅ Enterprise-grade multi-tenant architecture design
+- ✅ Tenant isolation & data security strategies
+- ✅ Scalable subscription & billing systems
+- ✅ Role-based access control (RBAC) implementation
+- ✅ Multi-database & multi-schema tenancy patterns
+
+</details>
+
+<details open>
+<summary><b>⚡ Real-time Systems</b></summary>
+<br>
+
+- ✅ WebSocket server implementation (Socket.IO, Laravel Reverb)
+- ✅ Real-time notifications & live updates
+- ✅ Chat applications & messaging systems
+- ✅ Live dashboards & monitoring interfaces
+- ✅ Broadcasting events across distributed systems
+
+</details>
+
+<details open>
+<summary><b>🤖 Automation & Integration</b></summary>
+<br>
+
+- ✅ Browser automation & intelligent web scraping
+- ✅ Third-party API integration (Payment, Shipping, CRM)
+- ✅ Telegram bot development & automation
+- ✅ Email automation & notification systems
+- ✅ Custom CLI tools & commands (Artisan, Commander)
+- ✅ Scheduled task management & job queues
+
+</details>
+
+<details open>
+<summary><b>💻 Full-Stack Development</b></summary>
+<br>
+
+- ✅ RESTful API design & implementation
+- ✅ SPA (Single Page Applications) with Vue.js/React
+- ✅ Server-side rendering with Inertia.js
+- ✅ Admin panel development (Filament, Nova)
+- ✅ E-commerce platform development
+- ✅ Custom CMS development
+
+</details>
+
+<details open>
+<summary><b>🔍 Search & Performance</b></summary>
+<br>
+
+- ✅ Elasticsearch implementation & optimization
+- ✅ Full-text search with relevance scoring
+- ✅ Caching strategies (Redis, Memcached)
+- ✅ Database query optimization
+- ✅ Application performance tuning
+
+</details>
+
+<details open>
+<summary><b>🖥️ Desktop Applications</b></summary>
+<br>
+
+- ✅ Cross-platform desktop apps with Electron
+- ✅ Hardware integration (USB devices, printers)
+- ✅ Offline-first applications
+- ✅ Auto-update mechanisms
+- ✅ Native system integration
+
+</details>
 
 ---
 
-## 📫 Let's Connect
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-I'm always open to discussing innovative projects, collaboration opportunities, and technical challenges.
+## 🎯 Current Mission
 
 <div align="center">
+
+
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 **Short-term Goals**
+
+- 🚀 Launch 3 production-ready SaaS products
+- 📦 Publish 5 open-source packages
+- 🎓 Mentor 10+ junior developers
+- 📝 Write technical articles & tutorials
+- 🌟 Contribute to major Laravel packages
+
+</td>
+<td width="50%">
+
+### 🔮 **Long-term Vision**
+
+- 🏢 Build a successful SaaS company
+- 🌍 Create tech solutions for MENA region
+- 🤝 Foster the Algerian developer community
+- 📚 Establish online learning platform
+- 🎤 Speak at international tech conferences
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+## 🌟 Why Work With Me?
+
+<div align="center">
+
+| 🎯 **Quality First** | ⚡ **Speed & Agility** | 🔄 **Continuous Learning** | 🤝 **Collaboration** |
+|:---:|:---:|:---:|:---:|
+| Clean, maintainable code following best practices | Rapid prototyping & efficient delivery | Always exploring new technologies | Strong communication & teamwork |
+| Comprehensive testing | Agile methodology | Active in tech communities | Client-focused approach |
+| Scalable architecture | Performance optimization | Regular skill updates | Documentation excellence |
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+## 💡 Philosophy
+
+<div align="center">
+
+> *"Great software is not just about writing code—it's about understanding problems deeply, designing elegant solutions, and delivering value that transforms businesses."*
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
+<br><b>Clean Code</b>
+<br><sub>Readable, Maintainable</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/000000/system-task.png" width="60"/>
+<br><b>Best Practices</b>
+<br><sub>SOLID, DRY, KISS</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/000000/test-passed.png" width="60"/>
+<br><b>Testing</b>
+<br><sub>Unit, Integration, E2E</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/000000/api.png" width="60"/>
+<br><b>API Design</b>
+<br><sub>RESTful, Documented</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/>
+<br><b>Performance</b>
+<br><sub>Fast, Optimized</sub>
+</td>
+</tr>
+</table>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+## 📬 Let's Connect & Collaborate
+
+<div align="center">
+
+### 🌐 **Open to Opportunities**
+
+I'm actively seeking exciting projects and collaborations! Whether you need:
+
+- 🏗️ A scalable SaaS platform built from scratch
+- ⚡ Real-time features integrated into your application
+- 🤖 Intelligent automation to streamline your business
+- 🔧 Custom tools or packages for your workflow
+- 💼 Technical consulting or architecture review
+
+**Let's build something amazing together!**
+
+<br>
+
+### 📫 **Reach Out**
+
+<p align="center">
   <a href="mailto:boukemoucheidriss@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-terminaldz%40outlook.com-00D4AA?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/idriss-boukmouche/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/idriss-boukmouche/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/idriss_boukmouche" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+
+  <a href="https://terminaldz.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://iba.rf.gd" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4CAF50?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
+</p>
+
+<br>
+
+### ⚡ **Quick Response Time**
+
+<img src="https://img.shields.io/badge/Response_Time-24_Hours-00D4AA?style=for-the-badge&logo=clock&logoColor=white" />
+<img src="https://img.shields.io/badge/Availability-Open_to_Projects-64FFDA?style=for-the-badge&logo=statuspage&logoColor=0a192f" />
+
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=100&section=footer"/>
+
+### 💙 **Thank you for visiting!**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Let's+innovate+together+%F0%9F%9A%80;From+Algiers+with+passion+%E2%9D%A4%EF%B8%8F;Building+the+future%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Footer Typing SVG" />
+
+**⭐ Don't forget to star repositories you find interesting!**
+
+<sub>Made with ❤️ in Algeria 🇩🇿</sub>
+
+</div>
